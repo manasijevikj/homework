@@ -1,0 +1,17 @@
+3. Write a program that reads two sides of a rectangle and calculates and prints the perimeter of the rectangle.
+
+
+Begin{
+int side, sum, per;
+
+for(int i = 0; i < 2; i++)
+{
+	Output "Vnesi ja dolzinata na stranata od pravoaolnikot"
+	Input side;
+	sum += side;
+}
+per = sum*2;
+Output "Perimetarot na pravoagolnikot iznesuva "+per;
+}
+
+

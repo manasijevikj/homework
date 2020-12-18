@@ -1,0 +1,59 @@
+body {
+    background-image: none;
+    background-color: #f8c15e;
+    color: black;
+}
+
+main {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    text-align: justify;
+}
+
+p {
+    padding-top: 15px;
+}
+
+.column_2 {
+  float: left;
+  width: 50%;
+}
+
+.column_3, .column_3_cars {
+  float: left;
+  width: 33%;
+}
+
+li.phone {
+    list-style-type:none;  
+    padding: 10px;
+}
+
+.contact_form input, .contact_form textarea {
+    margin: 10px; 
+}
+
+.column_3 img {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.column_3 h3 {
+    margin-top: 50px;
+    text-align: left;
+}
+
+.column_3_cars img {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.column_3_cars h3 {
+    margin-top: 50px;
+    text-align: center;
+}
+

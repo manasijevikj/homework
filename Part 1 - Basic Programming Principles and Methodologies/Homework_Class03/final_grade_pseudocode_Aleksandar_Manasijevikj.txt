@@ -1,0 +1,18 @@
+Begin {
+    var ocenka, suma, avg;
+    for(var i=0; i<=3; i++)
+    {
+        Output "Vnesi ja ocenkata pod broj "+i+1;
+        Input ocenka;
+        sum += ocenka;
+    }
+    avg = sum/4; 
+    if(avg >= 3)
+    {
+        Output "Tvojot prosek e "+avg+" i go polozi predmetot";
+    }
+    else
+    {
+        Output "Tvojot prosek e "+avg+" i go padna predmetot";
+    }
+}

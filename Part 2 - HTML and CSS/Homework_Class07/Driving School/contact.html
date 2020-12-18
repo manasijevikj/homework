@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>U Drive</title>
+
+    <link rel="icon" href="./images/logo.png">
+    <link rel="stylesheet" href="./styles/main.css" type="text/css">
+    <link rel="stylesheet" href="./styles/secondary.css" type="text/css">
+</head>
+<body>
+
+    <header>    
+
+        <div>
+            <img src="./images/logo.png" alt="logo" id="logo">
+        </div>
+        
+        <nav>
+            <ul>
+                <a href="./index.html"><li>Home</li></a>
+                <a href="./about.html"><li>About</li></a>
+                <a href="./teachers.html"><li>Teachers</li></a>
+                <a href="./cars.html"><li>Cars</li></a>
+                <a href="./contact.html"><li>Contact</li></a>
+                
+            </ul>
+        </nav>
+
+        <div class="search-form">
+            <input type="text" placeholder="Search..." id="search-text" />
+            <input type="submit" value="Search"/>
+        </div>
+
+    </header>
+    <main>
+        <h1>Contact</h1>
+        <div class="row">
+          <div class="column_2">
+            <ul>
+                <li class="phone">+38978281961</li>
+                <li class="phone">+38923079333</li>
+            </ul> 
+          </div>
+          <div class="column_2">
+            <form class="contact_form">
+              <fieldset>
+            <legend>Send us a message</legend>
+
+            <label for="name">Your Name:</label>
+            <input type="text" name="name" id="name" required placeholder="Please write your name"/>
+    
+            <br><br>
+            <label for="contact">Your contact phone or email:</label>
+            <input type="text" name="contact" id="contact" required placeholder="Please tell us how to contact you..."/>
+
+            <br><br>
+            <label for="msg">Your message</label>
+            <textarea name="msg" id="msg" cols="30" rows="3" placeholder="Please write your message here..."></textarea>
+                  
+            <br><br>
+            <input type="reset" value="Reset Form"/>
+            <input type="submit" value="Register"/>
+
+        </fieldset>
+            </form>
+          </div>
+        </div>
+        
+    </main>
+    
+    <footer>
+    © Copyright Aleksandar Manasijevikj 2020. All rights reserved.
+    </footer>
+    
+</body>
+</html>

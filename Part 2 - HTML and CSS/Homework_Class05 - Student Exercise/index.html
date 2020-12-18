@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Testform</title>
+</head>
+
+<body style=" position: absolute; left:30%; width: 40%;">
+    <form>
+        <fieldset>
+            <legend><strong>Testform</strong></legend>
+
+            <label for="name"><strong >Name</strong></label>
+            <input type="text" name="name" id="name" maxlength="20" required placeholder="Please enter your name" style="position: absolute; left: 40%;">
+
+            <br><br>
+            <label for="pass"><strong>Password</strong></label>
+            <input type="password" name="password" id="pass" required placeholder="Please enter your password" style="position: absolute; left: 40%;">
+
+            <br><br>
+            <p><strong>Gender</strong></p>
+            <section style="position: absolute; left: 40%; top: 17%;">
+            <input type="radio" name="gender" id="male" value="male" checked="checked">
+            <label for="male">Male</label> <br>
+            <input type="radio" name="gender" id="female" value="female">
+            <label for="female">Female</label>
+            </section>
+
+            <br><br>
+            <label for="continent"><strong>Continent</strong></label> <br> 
+            <select name="continent" id="continent" style="position: absolute; left: 40%; top: 29%; width: 22%;">
+                <option disabled selected>Please select one of the following options</option>
+                <option value="europe">Europe</option>
+                <option value="asia">Asia</option>
+                <option value="africa">Africa</option>
+                <option value=" northAmerica">North America</option>
+                <option value="southAmerica">South America</option>
+                <option value="australia">Australia</option>
+            </select>
+
+            <br>
+            <p><strong>Meals</strong></p>
+
+            <section style="position: absolute; left: 40%; top: 37%;">
+            <input type="checkbox" name="meal" id="breakfast" value="breakfast">
+            <label for="breakfast">Breakfast</label> <br>
+            <input type="checkbox" name="meal" id="lunch" value="lunch">
+            <label for="lunch">Lunch</label> <br>
+            <input type="checkbox" name="meal" id="dinner" value="dinner">
+            <label for="dinner">Dinner</label>
+            </section>
+
+            <br><br>
+            <label for="remark"><strong>Remark</strong></label> <br>
+            <textarea name="remark" id="remark" cols="30" rows="4" placeholder="Write something..." ></textarea>
+
+            <br><br>
+            <label for="email"><strong>Email</strong></label>
+            <input type="email" name="email" id="email" maxlength="25" value="readonly@gmail.com" readonly style="position: absolute; left: 40%;">
+
+            <br><br>
+            <label for="file" style="font-weight: bold;">Upload your CV</label>
+            <input type="file" name="file" id="file" multiple accept="application/pdf" style="position: absolute; left: 40%;">
+
+            <br><br>
+            <label for="date"><strong>Enter your date</strong></label>
+            <input type="date" name="date" id="date" max="2020-12-15" style="position: absolute; left: 40%;"/>
+
+            <br><br>
+            <label for="color"><strong>Your favorite color</strong></label>
+            <input type="color" name="color" id="color" value="#ff0504" style="position: absolute; left: 40%;">
+
+            <br><br>
+            <label for="range"><strong>Please choose a value</strong></label>
+            <input type="range" name="range" id="range" value="30" style="position: absolute; left: 40%;">
+
+            <br><br>
+            <hr>
+
+            <input type="submit" value="Send">
+            <input type="reset" value="Cancel">
+            <br>
+
+
+        </fieldset>
+
+    </form>
+
+</body>
+
+</html>

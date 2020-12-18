@@ -1,0 +1,40 @@
+Bonus:
+Try to think how would you solve the minimum coins problem if you have limited number of coins. For example you know that you have 3 coins of 1c,
+5 coins of 5c, 2 coins of 10c etc. But the inputed amount can always be represented with those coins, imagine that there are no exceptional cases.
+
+Begin{
+int c10 = 0;
+int c5 = 0;
+int c1 = 0;
+int number;
+
+Output "Vnesi cifra";
+Input number;
+
+while (number > 0)
+        {
+            if(c10 < 2 && number >= 10)
+            {
+	            c10++;
+	            number -= 10;
+	        }
+	        else
+	        {
+	            if(c5 < 5 && number >= 5)
+	            {
+	                c5++;
+	                number -= 5;
+	            }
+	            else
+	            {
+	                if(c1 < 3 && number >= 1)
+	                {
+	                    c1++;
+	                    number -= 1;
+	                }
+	            }
+	        }
+        }
+Output "Resenieto e: " 
+Output c10+" od po 10 centi, "+c5+" od po 5 centi i "+c1+" od po 1 cent "
+}
