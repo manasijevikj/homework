@@ -35,17 +35,12 @@ h1 {
     width: 55%;
     margin: 20px auto;
     height: 200px;
-    /* align-items: center; */
 }
 
 .animals div img {
     width: 100%; 
     height: 100%;
     padding: 5px;
-
-    /* display: block;
-    margin-left: auto;
-    margin-right: auto; */
 }
 
 .animals div {
@@ -55,7 +50,6 @@ h1 {
     height: 150px;
     border: 4px dotted green;
     margin-top: 30px;
-    
 }
 
 #fox-img{
@@ -83,7 +77,6 @@ h1 {
     font-weight: 400;
     color: white;
     margin: 0 10px;
-    
 }
 
 .cBox {
@@ -175,14 +168,3 @@ h2 {
 .p14 {
     background-color: #1a75ff;
 }
-
-
-
-
-
-
-
-
-
-
-
