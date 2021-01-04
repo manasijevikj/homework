@@ -9,6 +9,7 @@ function calculateAge(bYear) {
 }
 
 birthyYear = parseInt(prompt("Insert your birth year:"));
+birthyYear = parseInt(birthyYear);
 calculateAge(birthyYear);
 
 birthyYear = prompt("Insert your birth year:");
