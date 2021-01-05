@@ -15,7 +15,6 @@ function hit(a) {
 
     if (flag == true) {
         newSentence = "Hit "+sentence+" Hit";
-        // console.log(newSentence);
         return newSentence;
     }
     else {
