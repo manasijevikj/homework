@@ -10,7 +10,7 @@ function triple(num1, num2) {
     }
     else {
         sum = (num1+num2)*3;
-        console.log("The numbers are same, thier sum is tripled: "+sum)
+        console.log("The numbers are same, their sum is tripled: "+sum)
     }
 }
 
