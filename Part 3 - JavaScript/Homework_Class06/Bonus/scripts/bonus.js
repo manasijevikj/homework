@@ -1,4 +1,4 @@
-function create_table()
+function createTable()
 {
     let nRows = document.getElementById("rows").value;
     let nCols = document.getElementById("cols").value;
@@ -21,4 +21,4 @@ function create_table()
 }
 
 let myButton = document.getElementById("button");
-myButton.addEventListener("click", create_table);
+myButton.addEventListener("click", createTable);
