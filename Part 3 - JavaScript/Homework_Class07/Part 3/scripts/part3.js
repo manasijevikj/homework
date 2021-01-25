@@ -24,10 +24,8 @@ save.addEventListener("click", function() {
     var newL = document.createElement("li");
     var textnode = document.createTextNode(`${students[students.length-1].fName} ${students[students.length-1].lName} - ${students[students.length-1].age} years`);
     newL.appendChild(textnode)
-    console.log(newL);
 
     ul1.appendChild(newL);
-
 });
 
 
