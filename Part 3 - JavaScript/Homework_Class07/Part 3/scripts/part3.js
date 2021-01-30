@@ -16,7 +16,6 @@ save.addEventListener("click", function() {
     let fName = document.getElementById("fName").value;
     let lName = document.getElementById("lName").value;
     let age = document.getElementById("age").value;
-    age = parseInt(age);
 
     students.push(new Student(fName, lName, age));
     console.log(students);
