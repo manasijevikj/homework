@@ -31,15 +31,19 @@ $(document).ready(function () {
 
             if (this.hasOwnProperty("pets")) {
                 console.log("Pets:");
-                for (let i of this.pets) {
-                    console.log(i.name);
+                // for (let i of this.pets) {
+                //     console.log(i.name);
+                // }
+
+                for(let i = 0; i < this.pets.length; i++) {
+                    console.log(`No.${i+1} - ${this.pets[i].name}`);
                 }
             }
         }
     }
 
 
-    var pets = [new Pet("Riki", "Papagal", 3, true, "Bojan"), new Pet("Mici", "Macka", 6, true, "Marija"), new Pet("Lea", "Kuce", 12, false, "Bojan"), new Pet("Lajka", "Kuce", 1, true, "Sara"), new Pet("Nemo", "Riba", 2, true, "Marija")];
+    var petsArray = [new Pet("Riki", "Papagal", 3, true, "Bojan"), new Pet("Mici", "Macka", 6, true, "Marija"), new Pet("Lea", "Kuce", 12, false, "Bojan"), new Pet("Lajka", "Kuce", 1, true, "Sara"), new Pet("Nemo", "Riba", 2, true, "Marija")];
     var people = [new Person("Joana", "Taleska", 25), new Person("Marija", "Jovanova", 35), new Person("Bojan", "Ivanovski", 25)];
 
     button1.click(function () {
@@ -67,12 +71,12 @@ $(document).ready(function () {
 
         petOwner.pets = [];
 
-        for (let i = 0; i < pets.length; i++) {
-            if (pet.owner.nametoLowerCase() == petOwner.firstName.toLowerCase()) {
-                petOwner.pets.push(pets[i]);
+        for (let i = 0; i < petsArray.length; i++) {
+            if (petsArray[i].owner.toLowerCase() == petOwner.firstName.toLowerCase()) {
+                petOwner.pets.push(petsArray[i]);
             }
         }
 
-        petOwner.print();
+        petOwner.printOwner();
     })
 })
