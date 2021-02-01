@@ -31,10 +31,6 @@ $(document).ready(function () {
 
             if (this.hasOwnProperty("pets")) {
                 console.log("Pets:");
-                // for (let i of this.pets) {
-                //     console.log(i.name);
-                // }
-
                 for(let i = 0; i < this.pets.length; i++) {
                     console.log(`No.${i+1} - ${this.pets[i].name}`);
                 }
