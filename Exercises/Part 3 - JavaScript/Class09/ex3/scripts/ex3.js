@@ -1,3 +1,5 @@
+let nArray = [1,2,3,4,5,6,7,8,9];
+
 function numFunction (inputArray) {
 
     let even = [];
@@ -19,6 +21,9 @@ function numFunction (inputArray) {
     return [even, odd];
 }
 
+let r = numFunction(nArray);
+if (r != false) {
+    console.log(`Even: ${r[0]}`);
+    console.log(`Odd: ${r[1]}`);
+}
 
-console.log(`Even: ${numFunction([1,2,3,"s",5,6,7,8,9])[0]}`);
-console.log(`Odd: ${numFunction([1,2,3,4,5,6,7,8,9])[1]}`);

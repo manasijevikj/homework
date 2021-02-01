@@ -1,40 +1,50 @@
-function Pet (name, type, age, isHealthy, owner) {
-    this.name = name;
-    this.type = type;
-    this.age = age;
-    this.isHealthy = isHealthy;
-    this.owner = owner;
+$(document).ready(function() {
 
-    this.isAdopted = function() {
-        if(owner) {
-            return true;
+    let num = $("#inNumber");
+    let but1= $("#button1");
+    let but2 = $("#button2");
+    let but3 = $("#button3");
+    let h3 = $("h3");
+    let circle;
+
+    function Circle(radius) {
+        this.radius = radius
+
+        this.getArea = function() {
+            let res1 = (this.radius*this.radius)*Math.PI;
+            return res1;
         }
-        else{
-            return false;
-        }
-    }
-}
 
-
-function Person(firstName, lastName, age) {
-    this.firstName = firstName;
-    this.lastName = lastName;
-    this.age = age;
-}
-
-var pets = [(new Pet("Riki","Papagal",3,true, new Person("Bojan", "Trajkovski",34))), (new Pet("Mici","Macka",6,true,new Person("Marija", "Ivanova",24))), (new Pet("Lea","Kuce",12,false, new Person("Bojan", "Trajkovski",34)))];
-
-var buttonS = document.getElementById("butonS");
-buttonS.addEventListener("click", function() {
-
-    let owner1 = document.getElementById("fName").value;
-
-    for(let i of pets) {
-        if(owner1 === pets[i].owner.firstName) {
-            console.log(`${pets[i]}`);
+        this.getPerimeter = function() {
+            let res2 = 2*this.radius*Math.PI;
+            return res2;
         }
     }
 
 
-}) 
+    but1.click(function() {
+        if(!!num.val()) {
+            h3.text("");
+            h3.text("The Circle is created");
+            circle = new Circle(num.val());
+        }
+        else {
+            h3.text("");
+            h3.text("Insert the radius");
+        }
 
+    })
+
+    but2.click(function() {
+        h3.text("");
+        h3.text(circle.getArea());
+    })
+
+
+    but3.click(function() {
+        h3.text("");
+        h3.text(circle.getPerimeter());
+    })
+
+
+})

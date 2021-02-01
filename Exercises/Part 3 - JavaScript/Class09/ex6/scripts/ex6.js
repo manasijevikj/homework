@@ -12,6 +12,8 @@ buttonS.addEventListener("click", function(){
     else {
         let area = (side1.value)*(side2.value);
         par.innerText = `${area}`;
+        par.style.color = "black";
+        par.style.fontSize = "16px";
     }
 })
 
