@@ -22,4 +22,7 @@ button.addEventListener("click", function () {
                     table.style.border = "3px solid black";
                 })
         })
+        .catch(function (error) {
+            //error
+        });
 })
