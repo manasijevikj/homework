@@ -1,0 +1,11 @@
+body {
+    background-image: url("../images/bg.jfif");
+    background-size: cover;
+    height: 100%;
+    background-color: #F7684A;
+    background-repeat: no-repeat;
+}
+
+.table {
+    background-color: rgba(255, 255, 255, 0.8);
+}
