@@ -211,7 +211,7 @@ $(document).ready(function () {
                 <p class="card-text">Age: ${cat.age}</p>
                 <p class="card-text">Color: ${cat.color}</p>
                 <p class="card-text">Owner ID: ${cat.ownerId}</p>
-                <p class="card-text">Weight: ${cat.weight}</p>
+                <p class="card-text">Weight: ${cat.weight} kg</p>
                 <p class="card-text">Is Friendly: ${cat.isFriendly}</p>
                 <a href="#" class="btn btn-primary" id="personalityBtn${cat.ownerId}">Print Personality</a>
                 <div id="divPersonality${cat.ownerId}"></div>
