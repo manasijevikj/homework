@@ -141,7 +141,7 @@ $(document).ready(function () {
     })
     //Add Book
     $("#lib3").click(function () {
-        $("#h3lib3").text(`The book "The Stand" is already added`);
+        $("#h3lib3").text(`The book "The Stand" is added`);
         library1.addBook(book5);
     })
 
