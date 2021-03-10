@@ -133,6 +133,7 @@ $(document).ready(function () {
     </div>`);
 
         $(`#meowBtn${cat.ownerId}`).click(function () {
+            $(`#divMeow${cat.ownerId}`).html("");
             $(`#divMeow${cat.ownerId}`).append(`
             <div class="alert alert-primary" role="alert"> ${cat.meow()}
             </div>`)
