@@ -1,0 +1,11 @@
+body {
+    background-image: url("../images/bg.jfif");
+    background-size: cover;
+    background-color: #138BA4;
+    height: 100%;
+    background-repeat: no-repeat;
+}
+
+.navbar{
+    margin-bottom: 20px;
+ }
