@@ -160,8 +160,6 @@ $(document).ready(function () {
                     <hr class="my-4">
                 </div>
 
-  
-
                 <hr class="my-4">
                 <div class="row">
                     <div class="col">
@@ -204,7 +202,6 @@ $(document).ready(function () {
 
     </div>`)
     }
-
 
 
     //Functions and Listener for Create Student
@@ -385,7 +382,6 @@ $(document).ready(function () {
         let res = studentsArray.filter(student => student.fullName().toLowerCase() === f);
         console.log(res);
         return res;
-
     }
 
     task3.click(function () {
@@ -418,7 +414,6 @@ $(document).ready(function () {
                     console.log(res);
                     $("#h3Sub").text(res);
                     $("#subjectInput").val("");
-
                 })
 
             }
