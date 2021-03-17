@@ -13,7 +13,6 @@ module.exports = {
     },
     readAndParseJsonFile: function () {
         let jsonFileParsed = fs.readFileSync(json, { encoding: "utf-8" });
-        // console.log(jsonFileParsed);
         return JSON.parse(jsonFileParsed);
     }
 }
