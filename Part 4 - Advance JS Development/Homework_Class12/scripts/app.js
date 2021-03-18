@@ -406,7 +406,7 @@ $(document).ready(function () {
 
             if (person.length > 0) {
                 $("#alertIdCheck").html("");
-                $("#alertIdCheck").append(`<div class="alert alert-success text-center" role="alert">${person[0].fullName()} exist
+                $("#alertIdCheck").append(`<div class="alert alert-success text-center" role="alert">${person[0].fullName()} exists
                 </div>`);
 
                 $("#chechSubButton").click(function () {
