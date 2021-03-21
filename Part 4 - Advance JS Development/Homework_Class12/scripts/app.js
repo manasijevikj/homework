@@ -303,12 +303,12 @@ $(document).ready(function () {
     </div>`)
 
         for (let student of studentsArray) {
-            $("#tbId").append(`                        <tr> <td>${student._firstName}</td>
-        <td>${student._lastName}</td>
-        <td>${student._age}</td>
-        <td>${student._address}</td>
-        <td>${student._academy}</td>
-        <td>${student._subjects}</td></tr>`);
+            $("#tbId").append(`                        <tr> <td>${student.firstName}</td>
+        <td>${student.lastName}</td>
+        <td>${student.age}</td>
+        <td>${student.address}</td>
+        <td>${student.academy}</td>
+        <td>${student.subjects}</td></tr>`);
         }
     }
 
