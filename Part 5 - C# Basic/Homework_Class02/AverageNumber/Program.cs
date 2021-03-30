@@ -1,5 +1,5 @@
 ﻿using System;
-
+//*
 namespace AverageNumber
 {
     class Program
