@@ -1,0 +1,13 @@
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\FindStatistics\bin\Debug\netcoreapp3.1\FindStatistics.exe
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\FindStatistics\bin\Debug\netcoreapp3.1\FindStatistics.deps.json
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\FindStatistics\bin\Debug\netcoreapp3.1\FindStatistics.runtimeconfig.json
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\FindStatistics\bin\Debug\netcoreapp3.1\FindStatistics.runtimeconfig.dev.json
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\FindStatistics\bin\Debug\netcoreapp3.1\FindStatistics.dll
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\FindStatistics\bin\Debug\netcoreapp3.1\FindStatistics.pdb
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\FindStatistics\obj\Debug\netcoreapp3.1\FindStatistics.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\FindStatistics\obj\Debug\netcoreapp3.1\FindStatistics.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\FindStatistics\obj\Debug\netcoreapp3.1\FindStatistics.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\FindStatistics\obj\Debug\netcoreapp3.1\FindStatistics.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\FindStatistics\obj\Debug\netcoreapp3.1\FindStatistics.dll
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\FindStatistics\obj\Debug\netcoreapp3.1\FindStatistics.pdb
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\FindStatistics\obj\Debug\netcoreapp3.1\FindStatistics.genruntimeconfig.cache

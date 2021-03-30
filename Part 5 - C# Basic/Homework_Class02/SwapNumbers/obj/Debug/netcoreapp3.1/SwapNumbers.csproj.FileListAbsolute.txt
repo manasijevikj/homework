@@ -1,0 +1,13 @@
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.exe
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.deps.json
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.runtimeconfig.json
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.runtimeconfig.dev.json
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.dll
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.pdb
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.dll
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.pdb
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.genruntimeconfig.cache

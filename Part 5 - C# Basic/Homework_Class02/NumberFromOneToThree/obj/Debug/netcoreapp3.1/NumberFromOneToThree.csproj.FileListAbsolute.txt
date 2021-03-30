@@ -1,0 +1,12 @@
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\NumberFromOneToThree\bin\Debug\netcoreapp3.1\NumberFromOneToThree.exe
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\NumberFromOneToThree\bin\Debug\netcoreapp3.1\NumberFromOneToThree.deps.json
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\NumberFromOneToThree\bin\Debug\netcoreapp3.1\NumberFromOneToThree.runtimeconfig.json
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\NumberFromOneToThree\bin\Debug\netcoreapp3.1\NumberFromOneToThree.runtimeconfig.dev.json
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\NumberFromOneToThree\bin\Debug\netcoreapp3.1\NumberFromOneToThree.dll
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\NumberFromOneToThree\bin\Debug\netcoreapp3.1\NumberFromOneToThree.pdb
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\NumberFromOneToThree\obj\Debug\netcoreapp3.1\NumberFromOneToThree.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\NumberFromOneToThree\obj\Debug\netcoreapp3.1\NumberFromOneToThree.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\NumberFromOneToThree\obj\Debug\netcoreapp3.1\NumberFromOneToThree.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\NumberFromOneToThree\obj\Debug\netcoreapp3.1\NumberFromOneToThree.dll
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\NumberFromOneToThree\obj\Debug\netcoreapp3.1\NumberFromOneToThree.pdb
+C:\Users\aleks\Desktop\Homework_Class02\Homework_Class02\NumberFromOneToThree\obj\Debug\netcoreapp3.1\NumberFromOneToThree.genruntimeconfig.cache
