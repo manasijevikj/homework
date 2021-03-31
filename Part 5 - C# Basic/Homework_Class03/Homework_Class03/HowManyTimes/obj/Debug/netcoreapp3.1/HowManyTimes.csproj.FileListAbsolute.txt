@@ -1,0 +1,13 @@
+C:\Users\aleks\Desktop\Homework_Class03\Homework_Class03\HowManyTimes\obj\Debug\netcoreapp3.1\HowManyTimes.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\Homework_Class03\Homework_Class03\HowManyTimes\obj\Debug\netcoreapp3.1\HowManyTimes.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Homework_Class03\Homework_Class03\HowManyTimes\obj\Debug\netcoreapp3.1\HowManyTimes.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Homework_Class03\Homework_Class03\HowManyTimes\obj\Debug\netcoreapp3.1\HowManyTimes.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Homework_Class03\Homework_Class03\HowManyTimes\bin\Debug\netcoreapp3.1\HowManyTimes.exe
+C:\Users\aleks\Desktop\Homework_Class03\Homework_Class03\HowManyTimes\bin\Debug\netcoreapp3.1\HowManyTimes.deps.json
+C:\Users\aleks\Desktop\Homework_Class03\Homework_Class03\HowManyTimes\bin\Debug\netcoreapp3.1\HowManyTimes.runtimeconfig.json
+C:\Users\aleks\Desktop\Homework_Class03\Homework_Class03\HowManyTimes\bin\Debug\netcoreapp3.1\HowManyTimes.runtimeconfig.dev.json
+C:\Users\aleks\Desktop\Homework_Class03\Homework_Class03\HowManyTimes\bin\Debug\netcoreapp3.1\HowManyTimes.dll
+C:\Users\aleks\Desktop\Homework_Class03\Homework_Class03\HowManyTimes\bin\Debug\netcoreapp3.1\HowManyTimes.pdb
+C:\Users\aleks\Desktop\Homework_Class03\Homework_Class03\HowManyTimes\obj\Debug\netcoreapp3.1\HowManyTimes.dll
+C:\Users\aleks\Desktop\Homework_Class03\Homework_Class03\HowManyTimes\obj\Debug\netcoreapp3.1\HowManyTimes.pdb
+C:\Users\aleks\Desktop\Homework_Class03\Homework_Class03\HowManyTimes\obj\Debug\netcoreapp3.1\HowManyTimes.genruntimeconfig.cache
