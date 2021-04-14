@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aleks\\Desktop\\Homework_Class05\\Homework_Class05\\Homework_Class05\\Homework_Class05.csproj": {}
+    "C:\\Users\\aleks\\Desktop\\Coding\\GitHub\\homework\\Part 5 - C# Basic\\Homework_Class05\\Homework_Class05\\Homework_Class05.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aleks\\Desktop\\Homework_Class05\\Homework_Class05\\Homework_Class05\\Homework_Class05.csproj": {
+    "C:\\Users\\aleks\\Desktop\\Coding\\GitHub\\homework\\Part 5 - C# Basic\\Homework_Class05\\Homework_Class05\\Homework_Class05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aleks\\Desktop\\Homework_Class05\\Homework_Class05\\Homework_Class05\\Homework_Class05.csproj",
+        "projectUniqueName": "C:\\Users\\aleks\\Desktop\\Coding\\GitHub\\homework\\Part 5 - C# Basic\\Homework_Class05\\Homework_Class05\\Homework_Class05.csproj",
         "projectName": "Homework_Class05",
-        "projectPath": "C:\\Users\\aleks\\Desktop\\Homework_Class05\\Homework_Class05\\Homework_Class05\\Homework_Class05.csproj",
+        "projectPath": "C:\\Users\\aleks\\Desktop\\Coding\\GitHub\\homework\\Part 5 - C# Basic\\Homework_Class05\\Homework_Class05\\Homework_Class05.csproj",
         "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aleks\\Desktop\\Homework_Class05\\Homework_Class05\\Homework_Class05\\obj\\",
+        "outputPath": "C:\\Users\\aleks\\Desktop\\Coding\\GitHub\\homework\\Part 5 - C# Basic\\Homework_Class05\\Homework_Class05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aleks\\AppData\\Roaming\\NuGet\\NuGet.Config",

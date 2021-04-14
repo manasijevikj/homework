@@ -25,10 +25,8 @@ namespace Homework_Class05
             };
 
             CarsAndDrivers(cars, drivers);
-            RaceAgain(cars, drivers);
 
             Console.ReadLine();
-
         }
 
         public static Car RaceCars(Car car1, Car car2)
@@ -147,6 +145,7 @@ namespace Homework_Class05
 
             Car wCar = RaceCars(firstCar, secondCar);
             InfoAboutWinner(wCar);
+            RaceAgain(cars, drivers);
 
         }
 
