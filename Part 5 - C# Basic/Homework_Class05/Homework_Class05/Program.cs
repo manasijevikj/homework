@@ -177,7 +177,7 @@ namespace Homework_Class05
 
         public static void InfoAboutWinner(Car winner)
         {
-            Console.WriteLine($"the model of the faster car is {winner.Model}, with speed of {winner.Speed} km/h" +
+            Console.WriteLine($"The model of the faster car is {winner.Model}, with speed of {winner.Speed} km/h" +
                 $" and its driver is {winner.Driver.Name}");
         }
 
@@ -223,6 +223,7 @@ namespace Homework_Class05
                 if(answer.ToLower() == "y")
                 {
                     CarsAndDrivers(cars, drivers);
+                    break;
                 }
                 else if(answer.ToLower() == "n")
                 {
