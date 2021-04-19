@@ -1,0 +1,13 @@
+C:\Users\aleks\Desktop\Homework_Class08\Homework_Class08\Task4\bin\Debug\netcoreapp3.1\Task4.exe
+C:\Users\aleks\Desktop\Homework_Class08\Homework_Class08\Task4\bin\Debug\netcoreapp3.1\Task4.deps.json
+C:\Users\aleks\Desktop\Homework_Class08\Homework_Class08\Task4\bin\Debug\netcoreapp3.1\Task4.runtimeconfig.json
+C:\Users\aleks\Desktop\Homework_Class08\Homework_Class08\Task4\bin\Debug\netcoreapp3.1\Task4.runtimeconfig.dev.json
+C:\Users\aleks\Desktop\Homework_Class08\Homework_Class08\Task4\bin\Debug\netcoreapp3.1\Task4.dll
+C:\Users\aleks\Desktop\Homework_Class08\Homework_Class08\Task4\bin\Debug\netcoreapp3.1\Task4.pdb
+C:\Users\aleks\Desktop\Homework_Class08\Homework_Class08\Task4\obj\Debug\netcoreapp3.1\Task4.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\Homework_Class08\Homework_Class08\Task4\obj\Debug\netcoreapp3.1\Task4.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Homework_Class08\Homework_Class08\Task4\obj\Debug\netcoreapp3.1\Task4.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Homework_Class08\Homework_Class08\Task4\obj\Debug\netcoreapp3.1\Task4.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Homework_Class08\Homework_Class08\Task4\obj\Debug\netcoreapp3.1\Task4.dll
+C:\Users\aleks\Desktop\Homework_Class08\Homework_Class08\Task4\obj\Debug\netcoreapp3.1\Task4.pdb
+C:\Users\aleks\Desktop\Homework_Class08\Homework_Class08\Task4\obj\Debug\netcoreapp3.1\Task4.genruntimeconfig.cache
