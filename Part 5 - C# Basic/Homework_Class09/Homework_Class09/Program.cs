@@ -131,16 +131,19 @@ namespace Homework_Class09
             }
             catch (FormatException e)
             {
+                Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine(e.Message);
                 Console.WriteLine("Incorrect input");
             }
             catch (NullReferenceException e)
             {
+                Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine(e.Message);
                 Console.WriteLine("Movie does not exist");
             }
             catch (Exception e)
             {
+                Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine(e.Message);
             }
 
