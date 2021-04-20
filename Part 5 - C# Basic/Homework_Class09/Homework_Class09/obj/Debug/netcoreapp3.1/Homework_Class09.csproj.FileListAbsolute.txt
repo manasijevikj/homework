@@ -1,0 +1,13 @@
+C:\Users\aleks\Desktop\Homework_Class09\Homework_Class09\Homework_Class09\bin\Debug\netcoreapp3.1\Homework_Class09.exe
+C:\Users\aleks\Desktop\Homework_Class09\Homework_Class09\Homework_Class09\bin\Debug\netcoreapp3.1\Homework_Class09.deps.json
+C:\Users\aleks\Desktop\Homework_Class09\Homework_Class09\Homework_Class09\bin\Debug\netcoreapp3.1\Homework_Class09.runtimeconfig.json
+C:\Users\aleks\Desktop\Homework_Class09\Homework_Class09\Homework_Class09\bin\Debug\netcoreapp3.1\Homework_Class09.runtimeconfig.dev.json
+C:\Users\aleks\Desktop\Homework_Class09\Homework_Class09\Homework_Class09\bin\Debug\netcoreapp3.1\Homework_Class09.dll
+C:\Users\aleks\Desktop\Homework_Class09\Homework_Class09\Homework_Class09\bin\Debug\netcoreapp3.1\Homework_Class09.pdb
+C:\Users\aleks\Desktop\Homework_Class09\Homework_Class09\Homework_Class09\obj\Debug\netcoreapp3.1\Homework_Class09.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\Homework_Class09\Homework_Class09\Homework_Class09\obj\Debug\netcoreapp3.1\Homework_Class09.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Homework_Class09\Homework_Class09\Homework_Class09\obj\Debug\netcoreapp3.1\Homework_Class09.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Homework_Class09\Homework_Class09\Homework_Class09\obj\Debug\netcoreapp3.1\Homework_Class09.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Homework_Class09\Homework_Class09\Homework_Class09\obj\Debug\netcoreapp3.1\Homework_Class09.dll
+C:\Users\aleks\Desktop\Homework_Class09\Homework_Class09\Homework_Class09\obj\Debug\netcoreapp3.1\Homework_Class09.pdb
+C:\Users\aleks\Desktop\Homework_Class09\Homework_Class09\Homework_Class09\obj\Debug\netcoreapp3.1\Homework_Class09.genruntimeconfig.cache
