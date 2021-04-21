@@ -78,7 +78,6 @@ namespace Homework_Class09
                 else if (option == 2)
                 {
                     bool invalidGenre = true;
-                    bool invalidMovie = true;
                     Console.WriteLine("Choose genre");
                     Console.WriteLine("");
                     foreach (Genre genre in Enum.GetValues(typeof(Genre)))
@@ -95,34 +94,26 @@ namespace Homework_Class09
                         {
                             invalidGenre = false;
                             moviesByGenre = currentCinema.ListOfMovies.Where(m => m.Genre == genre).ToList();
-
-                            Console.WriteLine("");
-                            Console.WriteLine("Choose movie");
-                            foreach(var movie in moviesByGenre)
-                            {
-                                Console.WriteLine(movie.Title);
-                            }
-
-                            string chosenMovie = Console.ReadLine();
-
-                            foreach(Movie m in moviesByGenre)
-                            {
-                                if(m.Title.ToLower() == chosenMovie.ToLower())
-                                {
-                                    invalidMovie = false;
-                                    currentCinema.WatchMovie(m);
-                                }
-                            }
-                            if (invalidMovie)
-                            {
-                                throw new Exception("Invalid Movie");
-                            }
+                            break;
                         }
-                    }                   
-                    if(invalidGenre)
+                    }
+
+                    if (!invalidGenre)
+                    {
+                        Console.WriteLine("");
+                        Console.WriteLine("Choose movie");
+                        foreach (var movie in moviesByGenre)
+                        {
+                            Console.WriteLine(movie.Title);
+                        }
+
+                        string chosenMovie = Console.ReadLine();
+                        currentCinema.WatchMovie(moviesByGenre.FirstOrDefault(m => m.Title.ToLower() == chosenMovie.ToLower()));
+                    }
+                    else
                     {
                         throw new Exception("Invalid Genre");
-                    }                  
+                    }
                 }
                 else
                 {

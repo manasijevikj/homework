@@ -31,14 +31,8 @@ namespace Homework_Class09.Entities
 
         public void WatchMovie(Movie movie)
         {
-            if(movie == null)
-            {
-                throw new Exception("The movie doesn't exist");
-            }
-            else
-            {
-                Console.WriteLine($"Watching {movie.Title}");
-            }
+            //movie is potentially null
+            Console.WriteLine($"Watching {movie.Title}");
         }
     }
 }
