@@ -11,3 +11,16 @@ C:\Users\aleks\Desktop\Homework_Class01\Homework_Class01\Homework_Class01\Workin
 C:\Users\aleks\Desktop\Homework_Class01\Homework_Class01\Homework_Class01\WorkingDay\obj\Debug\netcoreapp3.1\WorkingDay.dll
 C:\Users\aleks\Desktop\Homework_Class01\Homework_Class01\Homework_Class01\WorkingDay\obj\Debug\netcoreapp3.1\WorkingDay.pdb
 C:\Users\aleks\Desktop\Homework_Class01\Homework_Class01\Homework_Class01\WorkingDay\obj\Debug\netcoreapp3.1\WorkingDay.genruntimeconfig.cache
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class01\WorkingDay\bin\Debug\netcoreapp3.1\WorkingDay.exe
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class01\WorkingDay\bin\Debug\netcoreapp3.1\WorkingDay.deps.json
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class01\WorkingDay\bin\Debug\netcoreapp3.1\WorkingDay.runtimeconfig.json
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class01\WorkingDay\bin\Debug\netcoreapp3.1\WorkingDay.runtimeconfig.dev.json
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class01\WorkingDay\bin\Debug\netcoreapp3.1\WorkingDay.dll
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class01\WorkingDay\bin\Debug\netcoreapp3.1\WorkingDay.pdb
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class01\WorkingDay\obj\Debug\netcoreapp3.1\WorkingDay.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class01\WorkingDay\obj\Debug\netcoreapp3.1\WorkingDay.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class01\WorkingDay\obj\Debug\netcoreapp3.1\WorkingDay.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class01\WorkingDay\obj\Debug\netcoreapp3.1\WorkingDay.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class01\WorkingDay\obj\Debug\netcoreapp3.1\WorkingDay.dll
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class01\WorkingDay\obj\Debug\netcoreapp3.1\WorkingDay.pdb
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class01\WorkingDay\obj\Debug\netcoreapp3.1\WorkingDay.genruntimeconfig.cache

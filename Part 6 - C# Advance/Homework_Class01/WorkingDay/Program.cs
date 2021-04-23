@@ -11,6 +11,7 @@ namespace WorkingDay
             DateTime StartDate = new DateTime(1999, 01, 01);
             DateTime EndDate = DateTime.Now;
             string myDate, year, month, day;
+            bool validDay = false;
 
             List<DateTime> selectedDates = new List<DateTime>();
             List<DateTime> saturdays = new List<DateTime>();
@@ -36,11 +37,11 @@ namespace WorkingDay
             ((day.Month.ToString() == "12") && (day.Day.ToString() == "8"))).ToList();
 
 
-            while (true)
+            while (!validDay)
             {
                 try
                 {
-                    Console.WriteLine("Enter a date between "+(StartDate.ToShortDateString())+" and "+ (EndDate.ToShortDateString()));
+                    Console.WriteLine("Enter a date between " + (StartDate.ToShortDateString()) + " and " + (EndDate.ToShortDateString()));
 
                     Console.WriteLine("Enter a year");
                     year = Console.ReadLine();
@@ -58,7 +59,7 @@ namespace WorkingDay
                         if (selectedDates.Contains(dateValue))
                         {
 
-                            if(saturdays.Contains(dateValue) && holidays.Contains(dateValue))
+                            if (saturdays.Contains(dateValue) && holidays.Contains(dateValue))
                             {
                                 Console.WriteLine("Saturday and Holiday. It's not working day.");
                             }
@@ -66,7 +67,7 @@ namespace WorkingDay
                             {
                                 Console.WriteLine("Sunday and Holiday. It's not working day.");
                             }
-                            else if (saturdays.Contains(dateValue)) 
+                            else if (saturdays.Contains(dateValue))
                             {
                                 Console.WriteLine("Saturday. It's not working day.");
                             }
@@ -78,7 +79,12 @@ namespace WorkingDay
                             {
                                 Console.WriteLine("Holiday. It's not working day.");
                             }
-                            break;
+                            else
+                            {
+                                Console.WriteLine("It's working day.");
+                                
+                            }
+                            validDay = true;
                         }
                         else
                         {

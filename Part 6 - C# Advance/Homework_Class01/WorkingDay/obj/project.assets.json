@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aleks\\Desktop\\Homework_Class01\\Homework_Class01\\Homework_Class01\\WorkingDay\\WorkingDay.csproj",
+      "projectUniqueName": "C:\\Users\\aleks\\Desktop\\Coding\\GitHub\\homework\\Part 6 - C# Advance\\Homework_Class01\\WorkingDay\\WorkingDay.csproj",
       "projectName": "WorkingDay",
-      "projectPath": "C:\\Users\\aleks\\Desktop\\Homework_Class01\\Homework_Class01\\Homework_Class01\\WorkingDay\\WorkingDay.csproj",
+      "projectPath": "C:\\Users\\aleks\\Desktop\\Coding\\GitHub\\homework\\Part 6 - C# Advance\\Homework_Class01\\WorkingDay\\WorkingDay.csproj",
       "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aleks\\Desktop\\Homework_Class01\\Homework_Class01\\Homework_Class01\\WorkingDay\\obj\\",
+      "outputPath": "C:\\Users\\aleks\\Desktop\\Coding\\GitHub\\homework\\Part 6 - C# Advance\\Homework_Class01\\WorkingDay\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aleks\\AppData\\Roaming\\NuGet\\NuGet.Config",
