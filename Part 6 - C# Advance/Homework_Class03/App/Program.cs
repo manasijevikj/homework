@@ -39,14 +39,26 @@ namespace App
 
             try
             {
-                //Car car = new Car(0, "Old Timer", 1960, 001122, 40, new List<string> { "USA", "Germany" });
-                //Validator.Validate(car);
+                /* Car car = new Car(0, "Old Timer", 1960, 001122, 40, new List<string> { "USA", "Germany" });
+                if(Validator.Validate(car))
+                {
+                    Console.ForegroundColor = ConsoleColor.Magenta;
+                    Console.WriteLine("The car is valid");
+                } */
 
-                //Vehicle vehicle = new Vehicle(4, "", 1999, 008562);
-                //Validator.Validate(vehicle);
+                /* Vehicle vehicle = new Vehicle(4, "", 1999, 008562);
+                if(Validator.Validate(vehicle))
+                {
+                    Console.ForegroundColor = ConsoleColor.Magenta;
+                    Console.WriteLine("The vehicle is valid");
+                } */
 
-                Bike bike = new Bike(7, "Scooter", 0, 009652, "White");
-                Validator.Validate(bike);
+                Bike bike = new Bike(7, "Scooter", 10, 009652, "White");
+                if(Validator.Validate(bike))
+                {
+                    Console.ForegroundColor = ConsoleColor.Magenta;
+                    Console.WriteLine("The bike is valid");
+                }
 
             }
             catch (Exception e)

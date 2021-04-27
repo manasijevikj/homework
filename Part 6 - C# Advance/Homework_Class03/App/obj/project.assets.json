@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aleks\\Desktop\\Homework_Class03a\\Homework_Class03\\App\\App.csproj",
+      "projectUniqueName": "C:\\Users\\aleks\\Desktop\\Coding\\GitHub\\homework\\Part 6 - C# Advance\\Homework_Class03\\App\\App.csproj",
       "projectName": "App",
-      "projectPath": "C:\\Users\\aleks\\Desktop\\Homework_Class03a\\Homework_Class03\\App\\App.csproj",
+      "projectPath": "C:\\Users\\aleks\\Desktop\\Coding\\GitHub\\homework\\Part 6 - C# Advance\\Homework_Class03\\App\\App.csproj",
       "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aleks\\Desktop\\Homework_Class03a\\Homework_Class03\\App\\obj\\",
+      "outputPath": "C:\\Users\\aleks\\Desktop\\Coding\\GitHub\\homework\\Part 6 - C# Advance\\Homework_Class03\\App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aleks\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\aleks\\Desktop\\Homework_Class03a\\Homework_Class03\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\aleks\\Desktop\\Homework_Class03a\\Homework_Class03\\Domain\\Domain.csproj"
+            "C:\\Users\\aleks\\Desktop\\Coding\\GitHub\\homework\\Part 6 - C# Advance\\Homework_Class03\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\aleks\\Desktop\\Coding\\GitHub\\homework\\Part 6 - C# Advance\\Homework_Class03\\Domain\\Domain.csproj"
             }
           }
         }
