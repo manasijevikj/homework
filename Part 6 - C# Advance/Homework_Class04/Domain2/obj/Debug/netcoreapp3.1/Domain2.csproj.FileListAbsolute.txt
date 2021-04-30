@@ -1,0 +1,9 @@
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Domain2\bin\Debug\netcoreapp3.1\Domain2.deps.json
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Domain2\bin\Debug\netcoreapp3.1\Domain2.dll
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Domain2\bin\Debug\netcoreapp3.1\Domain2.pdb
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Domain2\obj\Debug\netcoreapp3.1\Domain2.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Domain2\obj\Debug\netcoreapp3.1\Domain2.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Domain2\obj\Debug\netcoreapp3.1\Domain2.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Domain2\obj\Debug\netcoreapp3.1\Domain2.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Domain2\obj\Debug\netcoreapp3.1\Domain2.dll
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Domain2\obj\Debug\netcoreapp3.1\Domain2.pdb

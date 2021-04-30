@@ -1,0 +1,16 @@
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task1App\bin\Debug\netcoreapp3.1\Task1App.exe
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task1App\bin\Debug\netcoreapp3.1\Task1App.deps.json
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task1App\bin\Debug\netcoreapp3.1\Task1App.runtimeconfig.json
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task1App\bin\Debug\netcoreapp3.1\Task1App.runtimeconfig.dev.json
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task1App\bin\Debug\netcoreapp3.1\Task1App.dll
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task1App\bin\Debug\netcoreapp3.1\Task1App.pdb
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task1App\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task1App\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task1App\obj\Debug\netcoreapp3.1\Task1App.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task1App\obj\Debug\netcoreapp3.1\Task1App.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task1App\obj\Debug\netcoreapp3.1\Task1App.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task1App\obj\Debug\netcoreapp3.1\Task1App.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task1App\obj\Debug\netcoreapp3.1\Task1App.csproj.CopyComplete
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task1App\obj\Debug\netcoreapp3.1\Task1App.dll
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task1App\obj\Debug\netcoreapp3.1\Task1App.pdb
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task1App\obj\Debug\netcoreapp3.1\Task1App.genruntimeconfig.cache

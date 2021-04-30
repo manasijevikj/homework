@@ -1,0 +1,16 @@
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task2App\bin\Debug\netcoreapp3.1\Task2App.exe
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task2App\bin\Debug\netcoreapp3.1\Task2App.deps.json
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task2App\bin\Debug\netcoreapp3.1\Task2App.runtimeconfig.json
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task2App\bin\Debug\netcoreapp3.1\Task2App.runtimeconfig.dev.json
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task2App\bin\Debug\netcoreapp3.1\Task2App.dll
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task2App\bin\Debug\netcoreapp3.1\Task2App.pdb
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task2App\bin\Debug\netcoreapp3.1\Domain2.dll
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task2App\bin\Debug\netcoreapp3.1\Domain2.pdb
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task2App\obj\Debug\netcoreapp3.1\Task2App.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task2App\obj\Debug\netcoreapp3.1\Task2App.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task2App\obj\Debug\netcoreapp3.1\Task2App.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task2App\obj\Debug\netcoreapp3.1\Task2App.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task2App\obj\Debug\netcoreapp3.1\Task2App.csproj.CopyComplete
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task2App\obj\Debug\netcoreapp3.1\Task2App.dll
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task2App\obj\Debug\netcoreapp3.1\Task2App.pdb
+C:\Users\aleks\Desktop\Homework_Class04\nov\Homework_Class04\Homework_Class04\Task2App\obj\Debug\netcoreapp3.1\Task2App.genruntimeconfig.cache
