@@ -1,115 +1,87 @@
-USE [master]
+CREATE TABLE [dbo].[Student](
+        [Id] [int] IDENTITY(1,1) NOT NULL,
+        [FirstName] [nvarchar](30) NOT NULL,
+        [LastName] [nvarchar](30) NOT NULL,
+        [DateOfBirth] [date] NULL,
+        [EnrolledDate] [date] NULL,
+        [Gender] [nchar](1) NULL,
+        [NationalIDNumber] [int] NULL,
+		[StudentCardNumber] [int] NULL,
+ CONSTRAINT [PK_Student] PRIMARY KEY CLUSTERED 
+(
+        [Id] ASC
+))
 GO
 
-/****** Object:  Database [Homework01]    Script Date: 6/16/2021 4:03:39 AM ******/
-CREATE DATABASE [Homework01]
- CONTAINMENT = NONE
- ON  PRIMARY 
-( NAME = N'Homework01', FILENAME = N'C:\Program Files\Microsoft SQL Server\MSSQL15.SQLEXPRESS\MSSQL\DATA\Homework01.mdf' , SIZE = 8192KB , MAXSIZE = UNLIMITED, FILEGROWTH = 65536KB )
- LOG ON 
-( NAME = N'Homework01_log', FILENAME = N'C:\Program Files\Microsoft SQL Server\MSSQL15.SQLEXPRESS\MSSQL\DATA\Homework01_log.ldf' , SIZE = 8192KB , MAXSIZE = 2048GB , FILEGROWTH = 65536KB )
- WITH CATALOG_COLLATION = DATABASE_DEFAULT
+CREATE TABLE [dbo].[Course]
+(
+	[ID] [smallint] IDENTITY(1,1) NOT NULL,
+	[Name] [nvarchar](40) NOT NULL,
+	[Credit] [tinyint] NOT NULL,
+	[AcademicYear] [tinyint] NULL,
+	[Semester] [tinyint] NULL,
+	CONSTRAINT [PK_Course] PRIMARY KEY CLUSTERED 
+	(
+		[ID] ASC
+	)
+)
 GO
 
-IF (1 = FULLTEXTSERVICEPROPERTY('IsFullTextInstalled'))
-begin
-EXEC [Homework01].[dbo].[sp_fulltext_database] @action = 'enable'
-end
+CREATE TABLE [dbo].[Teacher](
+        [Id] [int] IDENTITY(1,1) NOT NULL,
+        [FirstName] [nvarchar](30) NOT NULL,
+        [LastName] [nvarchar](30) NOT NULL,
+        [DateOfBirth] [date] NULL,
+        [AcademicRank] [int] NULL,
+		[StudentCardNumber] [int] NULL,
+		[HireDate] [date] NULL,
+ CONSTRAINT [PK_Teacher] PRIMARY KEY CLUSTERED 
+(
+        [Id] ASC
+))
 GO
 
-ALTER DATABASE [Homework01] SET ANSI_NULL_DEFAULT OFF 
+CREATE TABLE [dbo].[Grade]
+(
+	[ID] [int] IDENTITY(1,1) NOT NULL,
+	[StudentID] [int] NOT NULL,
+	[CourseID] [smallint] NOT NULL,
+	[TeacherID] [smallint] NOT NULL,
+	[Grade] [tinyint] NOT NULL,
+	[Comment] [nvarchar](150) NULL,
+	[CreatedDate] [datetime] NOT NULL,
+	CONSTRAINT [PK_Grade] PRIMARY KEY CLUSTERED 
+	(
+		[ID] ASC
+	)
+)
 GO
 
-ALTER DATABASE [Homework01] SET ANSI_NULLS OFF 
+CREATE TABLE [dbo].[GradeDetails]
+(
+	[ID] [int] IDENTITY(1,1) NOT NULL,
+	[GradeID] [int] NOT NULL,
+	[AchievementTypeID] [tinyint] NOT NULL,
+	[AchievementPoints] [tinyint] NOT NULL,
+	[AchievementMaxPoints] [tinyint] NOT NULL,
+	[AchievementDate] [datetime] NOT NULL,
+	CONSTRAINT [PK_GradeDetails] PRIMARY KEY CLUSTERED 
+	(
+		[ID] ASC
+	)
+)
 GO
 
-ALTER DATABASE [Homework01] SET ANSI_PADDING OFF 
-GO
-
-ALTER DATABASE [Homework01] SET ANSI_WARNINGS OFF 
-GO
-
-ALTER DATABASE [Homework01] SET ARITHABORT OFF 
-GO
-
-ALTER DATABASE [Homework01] SET AUTO_CLOSE OFF 
-GO
-
-ALTER DATABASE [Homework01] SET AUTO_SHRINK OFF 
-GO
-
-ALTER DATABASE [Homework01] SET AUTO_UPDATE_STATISTICS ON 
-GO
-
-ALTER DATABASE [Homework01] SET CURSOR_CLOSE_ON_COMMIT OFF 
-GO
-
-ALTER DATABASE [Homework01] SET CURSOR_DEFAULT  GLOBAL 
-GO
-
-ALTER DATABASE [Homework01] SET CONCAT_NULL_YIELDS_NULL OFF 
-GO
-
-ALTER DATABASE [Homework01] SET NUMERIC_ROUNDABORT OFF 
-GO
-
-ALTER DATABASE [Homework01] SET QUOTED_IDENTIFIER OFF 
-GO
-
-ALTER DATABASE [Homework01] SET RECURSIVE_TRIGGERS OFF 
-GO
-
-ALTER DATABASE [Homework01] SET  DISABLE_BROKER 
-GO
-
-ALTER DATABASE [Homework01] SET AUTO_UPDATE_STATISTICS_ASYNC OFF 
-GO
-
-ALTER DATABASE [Homework01] SET DATE_CORRELATION_OPTIMIZATION OFF 
-GO
-
-ALTER DATABASE [Homework01] SET TRUSTWORTHY OFF 
-GO
-
-ALTER DATABASE [Homework01] SET ALLOW_SNAPSHOT_ISOLATION OFF 
-GO
-
-ALTER DATABASE [Homework01] SET PARAMETERIZATION SIMPLE 
-GO
-
-ALTER DATABASE [Homework01] SET READ_COMMITTED_SNAPSHOT OFF 
-GO
-
-ALTER DATABASE [Homework01] SET HONOR_BROKER_PRIORITY OFF 
-GO
-
-ALTER DATABASE [Homework01] SET RECOVERY SIMPLE 
-GO
-
-ALTER DATABASE [Homework01] SET  MULTI_USER 
-GO
-
-ALTER DATABASE [Homework01] SET PAGE_VERIFY CHECKSUM  
-GO
-
-ALTER DATABASE [Homework01] SET DB_CHAINING OFF 
-GO
-
-ALTER DATABASE [Homework01] SET FILESTREAM( NON_TRANSACTED_ACCESS = OFF ) 
-GO
-
-ALTER DATABASE [Homework01] SET TARGET_RECOVERY_TIME = 60 SECONDS 
-GO
-
-ALTER DATABASE [Homework01] SET DELAYED_DURABILITY = DISABLED 
-GO
-
-ALTER DATABASE [Homework01] SET ACCELERATED_DATABASE_RECOVERY = OFF  
-GO
-
-ALTER DATABASE [Homework01] SET QUERY_STORE = OFF
-GO
-
-ALTER DATABASE [Homework01] SET  READ_WRITE 
+CREATE TABLE [dbo].[AchievementType]
+(
+	[ID] [tinyint] IDENTITY(1,1) NOT NULL,
+	[Name] [nvarchar](40) NOT NULL,
+	[Description] [nvarchar](150) NULL,
+	[ParticipationRate] [tinyint] NOT NULL,
+	CONSTRAINT [PK_AchievementType] PRIMARY KEY CLUSTERED 
+	(
+		[ID] ASC
+	)
+)
 GO
 
