@@ -1,3 +1,18 @@
+CREATE DATABASE Homework01
+GO
+
+USE [Homework01]
+GO
+
+DROP TABLE IF EXISTS [dbo].[Student];
+DROP TABLE IF EXISTS [dbo].[Course];
+DROP TABLE IF EXISTS [dbo].[Teacher];
+DROP TABLE IF EXISTS [dbo].[Grade];
+DROP TABLE IF EXISTS [dbo].[GradeDetails];
+DROP TABLE IF EXISTS [dbo].[AchievementType];
+GO
+
+
 CREATE TABLE [dbo].[Student](
         [Id] [int] IDENTITY(1,1) NOT NULL,
         [FirstName] [nvarchar](30) NOT NULL,
