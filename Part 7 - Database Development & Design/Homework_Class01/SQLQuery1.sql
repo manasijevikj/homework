@@ -1,7 +1,7 @@
-CREATE DATABASE Homework01
+CREATE DATABASE SEDCHome
 GO
 
-USE [Homework01]
+USE [SEDCHome]
 GO
 
 DROP TABLE IF EXISTS [dbo].[Student];
