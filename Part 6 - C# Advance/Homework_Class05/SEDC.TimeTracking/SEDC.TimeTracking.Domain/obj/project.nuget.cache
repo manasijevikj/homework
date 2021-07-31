@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hGyf/5CK8gBwdC38QtQwn7sW5bA00/XgooTl6M5XT1pN0ujlBEcVHKQVbQI0o0KsljEd1mI8NeknViHEo6goXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aleks\\Desktop\\Coding\\GitHub\\homework\\Part 6 - C# Advance\\Homework_Class05\\SEDC.TimeTracking\\SEDC.TimeTracking.Domain\\SEDC.TimeTracking.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aleks\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

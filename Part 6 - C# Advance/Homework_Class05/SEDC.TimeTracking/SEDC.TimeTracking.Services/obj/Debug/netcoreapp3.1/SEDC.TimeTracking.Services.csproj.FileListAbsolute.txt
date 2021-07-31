@@ -1,0 +1,24 @@
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Services\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.Services.deps.json
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Services\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.Services.dll
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Services\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.Services.pdb
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Services\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.Domain.dll
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Services\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.Domain.pdb
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Services\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.Services.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Services\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.Services.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Services\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.Services.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Services\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.Services.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Services\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.Services.csproj.CopyComplete
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Services\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.Services.dll
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Services\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.Services.pdb
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Services\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.Services.deps.json
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Services\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.Services.dll
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Services\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.Services.pdb
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Services\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.Domain.dll
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Services\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.Domain.pdb
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Services\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.Services.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Services\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.Services.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Services\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.Services.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Services\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.Services.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Services\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.Services.csproj.CopyComplete
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Services\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.Services.dll
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Services\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.Services.pdb

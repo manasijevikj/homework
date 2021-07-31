@@ -1,0 +1,18 @@
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Domain\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.Domain.deps.json
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Domain\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.Domain.dll
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Domain\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.Domain.pdb
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Domain\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.Domain.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Domain\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.Domain.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Domain\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.Domain.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Domain\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Domain\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.Domain.dll
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Domain\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.Domain.pdb
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Domain\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.Domain.deps.json
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Domain\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.Domain.dll
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Domain\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.Domain.pdb
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Domain\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.Domain.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Domain\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.Domain.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Domain\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.Domain.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Domain\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Domain\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.Domain.dll
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.Domain\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.Domain.pdb

@@ -1,0 +1,38 @@
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.App.exe
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.App.deps.json
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.App.runtimeconfig.json
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.App.runtimeconfig.dev.json
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.App.dll
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.App.pdb
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.Domain.dll
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.Services.dll
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.Services.pdb
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.Domain.pdb
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.App.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.App.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.App.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.App.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.App.csproj.CopyComplete
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.App.dll
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.App.pdb
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.App.genruntimeconfig.cache
+C:\Users\aleks\Desktop\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.App.exe
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.App.deps.json
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.App.runtimeconfig.json
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.App.runtimeconfig.dev.json
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.App.dll
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.App.pdb
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.Domain.dll
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.Services.dll
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.Services.pdb
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\bin\Debug\netcoreapp3.1\SEDC.TimeTracking.Domain.pdb
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.App.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.App.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.App.AssemblyInfo.cs
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.App.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.App.csproj.CopyComplete
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.App.dll
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.App.pdb
+C:\Users\aleks\Desktop\Coding\GitHub\homework\Part 6 - C# Advance\Homework_Class05\SEDC.TimeTracking\SEDC.TimeTracking.App\obj\Debug\netcoreapp3.1\SEDC.TimeTracking.App.genruntimeconfig.cache
